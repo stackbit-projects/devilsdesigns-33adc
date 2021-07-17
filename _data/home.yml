@@ -1,7 +1,7 @@
 navbar_entries:
   - title: about
     url: about
-  - title: Github Releases
+  - title: Github Repositories
     url: 'https://darkflix.devilsdesigns.net'
   - title: website
     url: 'https://www.abhinav.co'
