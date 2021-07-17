@@ -8,7 +8,7 @@ navbar_entries:
   - title: lorem-ipsum
     url: lorem-ipsum
 project_entries:
-  - title: Project 1
+  - title: Git
     url: overview-post
     desc: 'This is an example project, configured in _data/home.yml'
   - title: Project 2
