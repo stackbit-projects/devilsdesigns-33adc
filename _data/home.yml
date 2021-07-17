@@ -9,7 +9,7 @@ navbar_entries:
     url: lorem-ipsum
 project_entries:
   - title: DarkFlix
-    url: 'https://'
+    url: 'https://devilsdesigns.net'
     desc: 'This is an example project, configured in _data/home.yml'
   - title: Project 2
     url: overview-post
