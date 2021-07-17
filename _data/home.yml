@@ -5,6 +5,8 @@ navbar_entries:
     url: 'https://darkflix.devilsdesigns.net/Github-Repositories'
   - title: Home
     url: 'https://www.devilsdesigns.net'
+  - title: lorem-ipsum
+    url: lorem-ipsum
 project_entries:
   - title: Project 1
     url: overview-post
