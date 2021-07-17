@@ -1,7 +1,7 @@
 navbar_entries:
   - title: about
     url: about
-  - title: Projects
+  - title: Github Releases
     url: Github Releases
   - title: website
     url: 'https://www.abhinav.co'
