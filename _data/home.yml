@@ -2,7 +2,7 @@ navbar_entries:
   - title: about
     url: about
   - title: Github Repositories
-    url: 'https://github.com/DevilsDesigns?tab=repositories'
+    url: 'https://'
   - title: website
     url: 'https://www.abhinav.co'
 project_entries:
