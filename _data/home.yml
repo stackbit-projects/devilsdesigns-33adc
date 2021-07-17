@@ -10,7 +10,7 @@ navbar_entries:
 project_entries:
   - title: DarkFlix
     url: 'https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme'
-    desc: The best Dark Netlfix Clone theme for Your Jellyfin
+    desc: The best Dark Netlfix Clone theme for Your Jellyfin Media S
   - title: Project 2
     url: overview-post
     desc: Projects are shown in card layout
