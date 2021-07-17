@@ -11,7 +11,7 @@ project_entries:
   - title: DarkFlix
     url: 'https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme'
     desc: The best Dark Netlfix Clone theme for Your Jellyfin Media Server
-  - title: Project 2
+  - title: Ombi
     url: overview-post
     desc: Projects are shown in card layout
   - title: Project 3
